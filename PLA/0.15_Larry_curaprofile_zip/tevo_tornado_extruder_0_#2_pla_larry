@@ -1,0 +1,16 @@
+[general]
+version = 4
+name = PLA_Larry
+definition = fdmprinter
+
+[metadata]
+type = quality_changes
+setting_version = 5
+quality_type = fast
+position = 0
+
+[values]
+default_material_print_temperature = 185
+retraction_amount = 1
+retraction_retract_speed = 60
+
